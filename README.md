@@ -3,9 +3,6 @@
 10secondsofcode is a easy way to understand the JavaScript and ReactJS snippets in 10 seconds. <br>
 This website idea is inspired from https://javascript.info
 
-## Website 
-https://www.10secondsofcode.com
-
 # To add any concepts like reactjs and javascript follow the below steps
 
 1. Create / Edit the reactjs and javascripts concepts file in `src/pages/`.
@@ -23,6 +20,6 @@ Follow these steps to make your first pull request-
   git push origin master
   ```
   5. Then create a pull request.
-  6. Star the official repository of `10secondsofcode`.
+  6. Star the official repository of `10SecOfCode`.
   7. Congratulations!! You have successfully made a pull request.
   
